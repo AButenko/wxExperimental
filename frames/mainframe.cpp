@@ -1,6 +1,7 @@
 
 #include "mainframe.hpp"
 
+// Static events handling
 // Event table for MainFrame
 BEGIN_EVENT_TABLE(MainFrame, wxFrame)
 //   EVT_MENU	(wxID_ABOUT, 		MainFrame::OnAbout)
